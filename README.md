@@ -13,10 +13,12 @@ For paired pseudobulk differential expression between two SeqGeq populations, se
 - Test clustering resolutions, compare saved results, and reopen or import supported saved runs.
 - Export an Analysis Package for downstream work.
 
+**[Download the latest SeuratEM release](https://github.com/MJMJ666/SeuratEM/releases/latest)**
+
 ## Install
 
 1. Install SeqGeq and R. Set the plug-ins folder and R location in SeqGeq’s Diagnostics preferences.
-2. Place `SeuratEM_v1.1.0.jar` in that folder. Keep one installed SeuratEM JAR at a time and store ZIP archives and development folders elsewhere.
+2. Place the SeuratEM JAR from the latest release in that folder. Keep one installed SeuratEM JAR at a time and store ZIP archives and development folders elsewhere.
 3. Restart SeqGeq. Open SeuratEM and choose **Check/repair software…** to verify R and install required packages as needed.
 
 ## Start an analysis
