@@ -1,5 +1,12 @@
 # SeuratEM
 
+<!-- SEURATEM_LATEST_RELEASE_START -->
+**[Download the latest SeuratEM release](https://github.com/MJMJ666/SeuratEM/releases/latest)**
+
+Current release: **v1.1.7**. Updates include direct resolution sweeps, saved-resolution gene-set scoring, comparison PNG/PDF export, compressed large inputs and authenticated legacy workspace-run recovery. See the release notes and acceptance status for details.
+<!-- SEURATEM_LATEST_RELEASE_END -->
+
+
 SeuratEM builds on the original Seurat plug-in for SeqGeq, developed and distributed by BD/Waters.
 
 SeuratEM is a SeqGeq plug-in for preparing, clustering, and visualizing single-cell data. Choose **RNA-only** or **protein/ADT-only** analysis, or combine RNA and ADT using **weighted nearest neighbors (WNN)**.
