@@ -3,7 +3,7 @@
 <!-- SEURATEM_LATEST_RELEASE_START -->
 **[Download the latest SeuratEM release](https://github.com/MJMJ666/SeuratEM/releases/latest)**
 
-Current release: **v1.1.7**. Updates include direct resolution sweeps, saved-resolution gene-set scoring, comparison PNG/PDF export, compressed large inputs and authenticated legacy workspace-run recovery. See the release notes and acceptance status for details.
+Current release: **v1.1.16**. Manage saved analyses and batch explorations with clearer controls, readable menus and tables, and corrected exploration deletion. The v1.1.16 Mac checks passed in user testing; see the release notes and later User Test Acceptance record.
 <!-- SEURATEM_LATEST_RELEASE_END -->
 
 
